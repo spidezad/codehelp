@@ -9,5 +9,4 @@ codehelp/gisthandler.py
 codehelp.egg-info/PKG-INFO
 codehelp.egg-info/SOURCES.txt
 codehelp.egg-info/dependency_links.txt
-codehelp.egg-info/requires.txt
 codehelp.egg-info/top_level.txt
